@@ -1,0 +1,15 @@
+<svg width="17.000000" height="17.000000" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_48">
+			<rect id="Icon/Basic/Search16px" width="17.000000" height="17.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Icon/Basic/Search16px" width="17.000000" height="17.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_48)">
+		<path id="Vector" d="M7.48645 0C3.35852 0 0 3.35864 0 7.48633C0 11.6145 3.35852 14.9729 7.48645 14.9729C11.6146 14.9729 14.9729 11.6145 14.9729 7.48633C14.9729 3.35864 11.6146 0 7.48645 0ZM7.48645 13.5908C4.12054 13.5908 1.38211 10.8523 1.38211 7.48657C1.38211 4.12061 4.12054 1.38208 7.48645 1.38208C10.8524 1.38208 13.5908 4.12061 13.5908 7.48633C13.5908 10.8523 10.8524 13.5908 7.48645 13.5908Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M16.7975 15.8203L12.8354 11.8582C12.5654 11.5884 12.1282 11.5884 11.8582 11.8582C11.5883 12.1279 11.5883 12.5657 11.8582 12.8354L15.8203 16.7974C15.9553 16.9324 16.132 17 16.3089 17C16.4856 17 16.6625 16.9324 16.7975 16.7974C17.0674 16.5278 17.0674 16.0901 16.7975 15.8203Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
